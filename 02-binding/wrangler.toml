@@ -4,5 +4,5 @@ compatibility_flags = ["python_workers"]
 compatibility_date = "2024-03-29"
 
 kv_namespaces = [
-    { binding = "FOO", id = "<YOUR_KV_NAMESPACE_ID>" }
+    { binding = "FOO", id = "55777d9146c0448ba9b380a786d74425" }
 ]
